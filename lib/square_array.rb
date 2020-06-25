@@ -7,6 +7,3 @@ def square_array(array)
   end 
   new_array
 end
-
-x = square_array([1, 4, 8])
-puts x
