@@ -6,3 +6,6 @@ def square_array(array)
     counter +=1 
   end 
 end
+
+x = square_array([1, 4, 8])
+puts x
