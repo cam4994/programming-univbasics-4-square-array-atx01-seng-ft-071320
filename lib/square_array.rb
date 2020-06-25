@@ -5,6 +5,7 @@ def square_array(array)
     new_array.push(array[counter] ** 2)
     counter +=1 
   end 
+  array
 end
 
 x = square_array([1, 4, 8])
